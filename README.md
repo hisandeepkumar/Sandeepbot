@@ -90,5 +90,9 @@ Feel free to contribute! If you find any bugs or want to improve features, creat
 
 ⚡ Made with ❤️ by Sandeep
 
+## 📢 Connect with Me  
+[![Instagram](https://img.shields.io/badge/📸-Follow_Me_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandeep_yadav_._._/)
+---
+
 This `README.md` provides clear instructions for installation, usage, and features, making it easy for anyone to set up and use your bot. Let me know if you want any modifications!
 
