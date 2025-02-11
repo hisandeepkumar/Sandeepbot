@@ -7,6 +7,7 @@ A powerful Telegram bot for group moderation, automatic user management, and spa
 ## Features  
 
 ✅ Auto-save members when they send a message  
+✅ **Auto-welcome new members** (in group & private chat)  
 ✅ Anti-spam with banned word detection  
 ✅ Block/allow media & links  
 ✅ Auto-mute and unmute users  
@@ -40,11 +41,17 @@ A powerful Telegram bot for group moderation, automatic user management, and spa
 | `/mute` (reply to a user) | Mute a user for 2 hours |
 | `/unmute <user_id>` | Unmute a user |
 
+### Additional Features  
+
+- **Auto-welcome new members**  
+  - Bot welcomes new members in the group.  
+  - Bot also sends a **private welcome message** (if possible).  
+
 ## Installation  
 
 1. **Clone this repository**  
    ```sh
-   git clone https://github.com/yourusername/telegram-group-moderator-bot.git
+   git clone https://github.com/hisandeepkumar/telegram-group-moderator-bot.git
    cd telegram-group-moderator-bot
 
 2. Install dependencies
