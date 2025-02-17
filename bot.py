@@ -324,8 +324,7 @@ async def banwords(update: Update, context: CallbackContext) -> None:
     await update.message.reply_text(f"🚫 **Banned Words:**\n{banned_list}", parse_mode="Markdown")
 
 
-#add users 
-@allowed_users_only
+#add users
 async def add_user(update: Update, context: CallbackContext) -> None:
     if not context.args:
         await update.message.reply_text("Usage: /adduser <user_id>")
